@@ -26,6 +26,7 @@
                 {width: 20, height: 20}, scene);
             return scene;
         };
+        
 
         const scene = createScene(); //Call the createScene function
         // Register a render loop to repeatedly render the scene
